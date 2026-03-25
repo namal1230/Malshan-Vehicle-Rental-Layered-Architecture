@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Maven](https://img.shields.io/badge/Maven-3.8.0-orange)
-![Architecture](https://img.shields.io/badge/Architecture-Layered%20%2F%20N%2DArchitecture-green)
 
 ---
 
@@ -121,8 +120,8 @@ This repository is open for learning and experimentation — feel free to fork a
 
 ---
 
-## References
+## References (MVC Architecture)
 
-- [Layered Architecture Overview](https://l-lin.github.io/architecture/project-structure/)
-- [Java N-Tier Architecture Guide](https://www.baeldung.com/java-n-tier-architecture)
-- [Malshan Vehicle Rent Shop Management System](https://github.com/namal1230/MALSHAN-VEHICLE-RENT-SHOP-MANAGEMENT-SYSTEM)
+This project is an **enhanced version of the previous MVC-based project**, converted into a **Layered Architecture** for better separation of concerns and maintainability.
+
+- [Malshan Vehicle Rent Shop Management System (Original MVC Project)](https://github.com/namal1230/MALSHAN-VEHICLE-RENT-SHOP-MANAGEMENT-SYSTEM)
